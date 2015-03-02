@@ -1,3 +1,3 @@
-NodeSchool chapter in Wrocław
+NodeSchool Wrocław
 =============================
 More details to be announced soon. Stay tuned.
