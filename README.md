@@ -3,7 +3,7 @@ NodeSchool Wroclaw
 
 <img src="https://cloud.githubusercontent.com/assets/2464966/7431176/42d93282-f01c-11e4-8572-2e6367851152.png" width="150" />
 
-First event will take place during [NodeSchool international](http://nodeschool.io/international-day/) day on 23rd of May. RSVP now [via Meetup.com](http://www.meetup.com/nodeschool-wroclaw/events/222231656/)
+First event is taking place during [NodeSchool international day](http://nodeschool.io/international-day/) on 23rd of May. RSVP now [via Meetup.com](http://www.meetup.com/nodeschool-wroclaw/events/222231656/)
 
 Have a question or would like to help us getting things done? Great! [Open an issue](https://github.com/nodeschool/wroclaw/issues) and let us know what you think!
 
