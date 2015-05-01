@@ -1,8 +1,13 @@
 NodeSchool Wrocław
 =============================
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/wroclaw?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+First event will take place during [NodeSchool international](http://nodeschool.io/international-day/) day on 23rd of May. RSVP now [via Meetup.com](http://www.meetup.com/nodeschool-wroclaw/events/222231656/)
 
-First even will take place during NodeSchool international day on 23rd of May
+Have a question or would like to help us getting things done? Great! [Open an issue](https://github.com/nodeschool/wroclaw/issues) and let us know what you think!
 
-http://nodeschool.io/international-day/
+## Contributors
+
+Hall of fame:
+- [@grabbou](https://github.com/grabbou)
+
+If your pull request has been already merged, feel free to add yourself to the list.
