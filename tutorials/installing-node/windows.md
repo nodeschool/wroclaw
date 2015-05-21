@@ -1,6 +1,6 @@
 # Installing Node.js on Windows
 
-The easiest way to install Node.js on windows is to get the newest installer from 
+The easiest way to install Node.js on windows is to change your system
 
 ```
 https://nodejs.org/download/
